@@ -1,7 +1,14 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/vallejosgroup/vallejosgroup.r-universe.dev
 	branch = HEAD
 [submodule "bayefdr"]
 	path = bayefdr
 	url = https://github.com/vallejosgroup/bayefdr
+[submodule "landmarkR"]
+	path = landmarkR
+	url = https://github.com/vallejosgroup/landmarkR
+[submodule "libdr"]
+	path = libdr
+	url = https://github.com/VallejosGroup/Lothian-IBDR
+	subdir = libdr
