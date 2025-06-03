@@ -1,0 +1,10 @@
+{
+  "id": 69483956,
+  "created_at": "2025-06-03T17:25:21.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["Software", "lcmm-site", "IBD-Inflammatory-Patterns", "DockerTemplates", "landmarkR"]
+}
