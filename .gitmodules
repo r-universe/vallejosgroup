@@ -5,9 +5,9 @@
 [submodule "bayefdr"]
 	path = bayefdr
 	url = https://github.com/vallejosgroup/bayefdr
-[submodule "landmarkR"]
-	path = landmarkR
-	url = https://github.com/vallejosgroup/landmarkR
+[submodule "landmaRk"]
+	path = landmaRk
+	url = https://github.com/vallejosgroup/landmaRk
 [submodule "libdr"]
 	path = libdr
 	url = https://github.com/VallejosGroup/Lothian-IBDR
